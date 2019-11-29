@@ -1,0 +1,10 @@
+Fabriquer un bandit manchot:
+- une machine qui contient des roues (minimum 3 max "infini")
+- choisir le nombre de roues que la machine possède
+- des roues qui tournent ensemble et qu'on arrête les une à la suite avec un bouton
+- des roues qui ne tournent pas à la même vitesse
+- une somme de départ de 100$
+- on perd de l'argent quand les valeurs retournées ne sont pas identique
+- mise  x1.5 si deux valeurs se suivent
+- mise x2 si trois valeurs se suivent
+- affiché les valeurs des roues en temps réel dans la console sur une seul ligne
